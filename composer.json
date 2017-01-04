@@ -1,0 +1,16 @@
+{
+  "name": "ramononis/olympia_rest_server",
+  "description": "REST server for KV Olympia 22",
+  "minimum-stability": "alpha",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ramon Onis",
+      "email": "ramononis@gmail.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "3.7.0",
+    "gabordemooij/redbean": "v4.3.3"
+  }
+}
